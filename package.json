@@ -1,0 +1,14 @@
+{
+  "name": "02-nodefundamentals",
+  "version": "0.0.1",
+  "description": "App to generate times tables",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Gutierrez",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
